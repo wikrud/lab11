@@ -6,3 +6,5 @@ public class Main {
         System.out.println();
     }
 }
+//ctrl alt l - formatuje
+// ctrl alt o - zoptymalizuje importu
