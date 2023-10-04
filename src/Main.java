@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
     }
     public void aaa(){
-        System.out.println("xxy");
+        System.out.println("xxx");
     }
 }
 //ctrl alt l - formatuje
